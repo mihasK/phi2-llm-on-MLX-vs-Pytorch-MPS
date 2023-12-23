@@ -12,7 +12,7 @@ Code for the [article](https://medium.com/@koypish/the-tools-you-a-python-develo
 * `make mps` - for PyTorch on Metal GPU
 * `make cpu` - for PyTorch on CPU
 
-In order to track CPU/GPU usage, run `make track`.
+In order to track CPU/GPU usage, keep `make track` running while performing operation of interest.
 
 ## Structure
 * `utils.py` contains memory measurement utils
