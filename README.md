@@ -18,5 +18,6 @@ In order to track CPU/GPU usage, keep `make track` running while performing oper
 * `utils.py` contains memory measurement utils
 * `try_phi2_torch.ipynb`, `try_phi2_mlx.ipynb` - benchmarks code
 * `phi2_mlx.py` - code mainly copied from https://github.com/ml-explore/mlx-examples/tree/main/llms/phi2
+* `plot_metrics.ipynb` - contains code to parse and analyze output of `powermetrics` (run by `make track`) 
   
 
