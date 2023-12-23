@@ -7,7 +7,7 @@ Code for the [article](https://medium.com/@koypish/the-tools-you-a-python-develo
 * `pyenv local 3.11`
 * `poetry shell`
 
-## Run Phi-2
+## Run Phi-2 benchmarks
 * `make mlx`
 * `make mps` - for PyTorch on Metal GPU
 * `make cpu` - for PyTorch on CPU
