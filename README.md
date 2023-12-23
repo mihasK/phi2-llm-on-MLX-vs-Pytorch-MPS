@@ -1,6 +1,6 @@
 # Benchmark of running Phi-2 LLM on MLX and PyTorch on MPS device
 
-Code for the [article](https://medium.com/@koypish/the-tools-you-a-python-developer-need-on-your-new-mac-68d8d1ebbff) about speed comparison of MLX and PyTorch on Apple's M1 MAX GPU: https://medium.com/@koypish/the-tools-you-a-python-developer-need-on-your-new-mac-68d8d1ebbff
+Code for the [article](https://medium.com/@koypish/mps-or-mlx-for-domestic-ai-the-answer-will-surprise-you-df4b111de8a0) about speed comparison of MLX and PyTorch on Apple's M1 MAX GPU: https://medium.com/@koypish/mps-or-mlx-for-domestic-ai-the-answer-will-surprise-you-df4b111de8a0
 
 ## Installation
 * `pyenv install 3.11`
