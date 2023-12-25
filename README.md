@@ -16,9 +16,9 @@ In order to track CPU/GPU usage, keep `make track` running while performing oper
 
 ## Results on M1 Max (MacOS Sonoma 14.1.1)
 
-![Speed Benchmark](results/mlx_GPU_usage.png)
+![Speed Benchmark](results/speed_bench.png)
 
-![MLX resources usage](results/speed_bench.png)
+![MLX resources usage](results/mlx_GPU_usage.png)
 
 ![PyTorch on MPS resources usage](results/torch_GPU_usage.png)
 
