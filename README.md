@@ -14,6 +14,16 @@ Code for the [article](https://medium.com/@koypish/mps-or-mlx-for-domestic-ai-th
 
 In order to track CPU/GPU usage, keep `make track` running while performing operation of interest.
 
+## Results on M1 Max (MacOS Sonoma 14.1.1)
+
+![Speed Benchmark](results/mlx_GPU_usage.png)
+
+![MLX resources usage](results/speed_bench.png)
+
+![PyTorch on MPS resources usage](results/torch_GPU_usage.png)
+
+
+
 ## Structure
 * `utils.py` contains memory measurement utils
 * `try_phi2_torch.ipynb`, `try_phi2_mlx.ipynb` - benchmarks code
