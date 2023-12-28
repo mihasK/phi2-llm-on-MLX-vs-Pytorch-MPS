@@ -7,6 +7,9 @@ cpu:
 mps:
 	papermill try_phi2_torch.ipynb output.ipynb --log-output -p MAX_TOKENS 200 -p USE_MPS True
 
+mnist:  # Training of simple mnist convnet classifier
+	papermill try_torch_mnist_training.ipynb output.ipynb --log-output
+
 mlx:
 	papermill try_phi2_mlx.ipynb output.ipynb --log-output -p MAX_TOKENS 200
 
