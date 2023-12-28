@@ -22,6 +22,8 @@ In order to track CPU/GPU usage, keep `make track` running while performing oper
 
 ![PyTorch on MPS resources usage](results/torch_GPU_usage.png)
 
+![PyTorch on MPS convnet training](results/convnet_torch_training.gif)
+
 
 
 ## Structure
