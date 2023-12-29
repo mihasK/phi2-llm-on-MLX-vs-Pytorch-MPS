@@ -5,7 +5,13 @@ Code for the [article](https://medium.com/@koypish/mps-or-mlx-for-domestic-ai-th
 ## Installation
 * `pyenv install 3.11`
 * `pyenv local 3.11`
+
+1st option:
 * `poetry shell`
+ 
+2nd option:
+* `python -m venv .venv; source .venv/bin/activate`
+* `pip install -r requirements.txt`
 
 ## Run Phi-2 benchmarks
 * `make mlx`
